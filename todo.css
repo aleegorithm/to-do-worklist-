@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url(/asset/BG.jpg);
+    background-image: url(/to-do-worklist-/assets/BG.jpg);
 }
 
 h1{
@@ -83,7 +83,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/asset/uncheck.png);
+    background-image: url(/to-do-worklist-/assets/uncheck.png);
     background-position: center;
     background-size: cover;
     top: 21px;
@@ -96,7 +96,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(/asset/check.png);
+    background-image: url(/to-do-worklist-/assets/check.png);
 }
 
 /* Javascript */
